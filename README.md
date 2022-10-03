@@ -1,2 +1,2 @@
-# bootcam-bootstrap
+# bootcamp-bootstrap
 Bootcamp Practice
